@@ -1,4 +1,8 @@
 
+# Feb 12, 2022
+Our goal is also to identify the causal parents of Y.
+
+
 # Feb 7, 2022 Literature Review
 
 - Answering Binary Causal Questions Through Large-Scale Text Mining: An Evaluation Using Cause-Effect Pairs from Human Experts. This paper answers "Could X cause Y?" [link](https://www.ijcai.org/proceedings/2019/0695.pdf)
