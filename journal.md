@@ -1,3 +1,11 @@
+# Feb 19, 2022
+Potential Project Direction.
+- Confounding: 10-K Form of NASDAQ listed companies. Confounding will be trained with a large embedding so that we can do matching.
+- Treatment: Strategy Changes (including digital transformation, change of leadership, change of direction)
+- Response: Revenue growth over the next 5 years.
+- Methods: We can formulate this problem as a synthetic control problem.
+
+
 
 # Feb 12, 2022
 Our goal is also to identify the causal parents of Y.
