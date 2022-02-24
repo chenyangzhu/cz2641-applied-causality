@@ -1,3 +1,28 @@
+# Feb 24, 2022
+The synthetic control method makes me think of the
+possibility of using BERT as confounders to control for
+the past, and to estimate the synthetic control to estimate
+for the next possible future.
+
+I'm also seeing few articles in the NLP + synthetic control
+literatures. People talked about synthetic data, instead of
+the synthetic control methods.
+
+I have an idea of using synthetic control method to study company
+valuation trajectory. Imagine we have $N$ companies,
+and $D$ types of event (such as changing strategy, changing direction,
+or switching to a new CEO). What would that cause the company's stock price,
+or later rounds of ventures. I think this would be a meaningful work.
+
+I also noticed this work by Professor Guzman at Columbia Business Schoo,
+_Measuring Founding Strategy_, where they basically used TF-IDF as a similarity metric
+to measure the distance between company's founding strategy. They then called this
+the differentiation score, which is highly indicative of the startup's
+future funding.
+
+They also have another paper about whether companies shifting to new strategies would change
+the later-round foundings. 
+
 # Feb 19, 2022
 Potential Project Direction.
 - Confounding: 10-K Form of NASDAQ listed companies. Confounding will be trained with a large embedding so that we can do matching.
