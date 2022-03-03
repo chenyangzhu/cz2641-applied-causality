@@ -1,3 +1,18 @@
+# Mar 1st
+I will be using data from kaggle
+[link](https://www.kaggle.com/datasets/justinas/startup-investments?select=investments.csv),
+that consists of venture deals, organizations, and exists of startups.
+While this is a relatively well-exploited dataset.
+I felt like it lack sufficient amount of causality in the analysis.
+I also want to avoid mundane and boring questions that previous generation
+of analysts have discussed.
+
+I would be curious to look at,
+- The causal effect of funds, in terms of multiple causes. I'm also curious to test out the method.
+- Using text as confounding to adjust for estimations.
+- Synthetic controling, using milestones as events. (Revise from Mar 2nd)
+
+
 # Feb 24, 2022
 The synthetic control method makes me think of the
 possibility of using BERT as confounders to control for
@@ -21,7 +36,7 @@ the differentiation score, which is highly indicative of the startup's
 future funding.
 
 They also have another paper about whether companies shifting to new strategies would change
-the later-round foundings. 
+the later-round foundings.
 
 # Feb 19, 2022
 Potential Project Direction.
