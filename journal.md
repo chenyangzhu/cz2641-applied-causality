@@ -1,3 +1,15 @@
+# Mar 15th, 2022
+I strongly feel that the representation learning papers are of very
+limited analytical use, b/c it's almost impossible for their re-generated
+\hidden representation to resemble anything in real-life variables.
+With that being the case, I felt like the interpretive power would be
+significantly lower than that of traditional methods. For analytical
+purpose, clear intuitions are more important.
+I could imagine that methods described in "Towards Causal Representation
+Learning" could be useful in terms of boosting the robustness of NLP
+algorithms, but I don't think representation learning is the ideal
+project to work on in this course.
+
 # Mar 1st
 I will be using data from kaggle
 [link](https://www.kaggle.com/datasets/justinas/startup-investments?select=investments.csv),
