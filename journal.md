@@ -1,7 +1,14 @@
+# April 1st, 2022
+I think for the project, we could look at the representation generated from
+algorithms covered in class. Then we look at the generated embedding, and compare
+with the true "hidden variables" that we have. That would probably also uncover
+some of the hidden variables out, and we can also see whether that hidden variable
+actually make any sense.
+
 # Mar 15th, 2022
 I strongly feel that the representation learning papers are of very
 limited analytical use, b/c it's almost impossible for their re-generated
-\hidden representation to resemble anything in real-life variables.
+hidden representation to resemble anything in real-life variables.
 With that being the case, I felt like the interpretive power would be
 significantly lower than that of traditional methods. For analytical
 purpose, clear intuitions are more important.
