@@ -1,3 +1,6 @@
+# May 4th, 2022
+
+
 # April 1st, 2022
 I think for the project, we could look at the representation generated from
 algorithms covered in class. Then we look at the generated embedding, and compare
@@ -26,7 +29,7 @@ I felt like it lack sufficient amount of causality in the analysis.
 I also want to avoid mundane and boring questions that previous generation
 of analysts have discussed.
 
-I would be curious to look at,
+It would be interesting to look at,
 - The causal effect of funds, in terms of multiple causes. I'm also curious to test out the method.
 - Using text as confounding to adjust for estimations.
 - Synthetic controling, using milestones as events. (Revise from Mar 2nd)
