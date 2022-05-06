@@ -2,3 +2,5 @@ src/data
 .DS_Store
 .idea
 src/codes/.ipynb_checkpoints
+.Rproj.user
+*.Rproj

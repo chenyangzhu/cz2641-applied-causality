@@ -1,5 +1,15 @@
-# May 4th, 2022
+# May 5th, 2022
+Today, basically finished data collection + computed out the basic matrix
+completion method.
 
+After validating the idea, there are two directions to iterate next,
+1) compute out the matrix completion algorithm with python.
+2) find confounders.
+
+
+# May 4th, 2022
+Restart working on the project, with a focus on using synthetic control methods
+to estimate the effect of changing a new CEO in startups.
 
 # April 1st, 2022
 I think for the project, we could look at the representation generated from
