@@ -4,3 +4,5 @@ src/data
 src/codes/.ipynb_checkpoints
 .Rproj.user
 *.Rproj
+.RData
+.Rhistory
